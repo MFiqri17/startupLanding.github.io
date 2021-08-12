@@ -32,7 +32,7 @@
 
 /*general*/
 .bg{
-  background-image: url("../img/background-ds-academy.png");
+  background-image: url("img/background-ds-academy.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -429,7 +429,7 @@ h1{
   font-size: 20px;
 }
 #circle-timeline{
-  background: url("/img/garis-timeline.png");
+  background: url("img/garis-timeline.png");
   background-size: 75vw;
   background-repeat: no-repeat;
   background-position: center;
@@ -489,7 +489,7 @@ li.timeline-item ul{
   color: white;
   font-family: "Hind Regular";
   font-size: 18px;
-  list-style-image: url("/img/bullet-point.png");
+  list-style-image: url("img/bullet-point.png");
 }
 
 
