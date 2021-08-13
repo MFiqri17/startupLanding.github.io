@@ -32,7 +32,7 @@
 
 /*general*/
 .bg{
-  background-image: url("img/background-ds-academy.png");
+  background-image: url("img/background-startup-academy.png");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -565,7 +565,7 @@ li.timeline-item ul{
 .bottom-text .desc a{
   position: relative;
   top: 8rem;
-  background: rgba(154, 33, 166, 1);
+  background: linear-gradient(90deg, #CE00B1 0%, #8818C9 100.11%);
   font-family: "Hind Bold";
   letter-spacing: .1rem;
   padding: 9px 45px;
@@ -573,9 +573,9 @@ li.timeline-item ul{
   border: 3px solid transparent;
 }
 .bottom-text .desc a:hover{
-  color: rgba(154, 33, 166, 1);
+  box-shadow: 0 3px 5px grey;
   background: transparent;
-  border: 3px solid rgba(154, 33, 166, 1);
+  border: 3px solid blue;
 }
 
 
